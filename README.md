@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Mostafa Mohiuddin Jalal(Protik). I am an engineering graduate from Bangladesh University of Professionals(BUP).
+I am Mostafa Mohiuddin Jalal (Protik). I am an engineering graduate from Bangladesh University of Professionals(BUP).
 
 I am a self taught **Machine Learning Engineer** and **Data Scientist**. I specialize in **classification, regression problem, anomaly detection, and outcome prediction**. I work with **medical statistics, Healthcare AI, sociaeconomic demographs**.
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="290" />
