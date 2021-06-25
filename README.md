@@ -2,7 +2,7 @@
 
 I am Mostafa Mohiuddin Jalal (Protik). I am an engineering graduate from Bangladesh University of Professionals(BUP).
 
-I am a self taught **Machine Learning Engineer** and **Data Scientist**. I specialize in **classification, regression problem, anomaly detection, and outcome prediction**. I work with **medical statistics, Healthcare AI, sociaeconomic demographs**.
+I am a self taught **Machine Learning Engineer** and **Data Scientist**. I specialize in **classification, regression problem, anomaly detection, and outcome prediction**. I work with **medical statistics, Healthcare AI, socioeconomic demographs**.
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="290" />
 
 In the research domain, I am a quantitative researcher. [Link to my research profile is given here.](https://www.researchgate.net/profile/Mostafa-Mohiuddin-Jalal?ev=hdr_xprf&_sg=pwZbhqLl2xwn5pDVRtSwgXVdiV7yspIjkTyoSl7Tq45l2gg9vhJ7XC26i96rSBSBhfXWWa4WfGB3bXBnXDa5a3S9). Along with my research, throughout my university life, I have worked on a few more research projects. That include, **Reasons of drug addiction in Bangladeshi Context**, **Breast Cancer Occurence and Recurrence Prediction**, **Reasons of Unemployment Among the Fresh Graduates in the Context of Bangladesh**, **OFDM Analysis**.
