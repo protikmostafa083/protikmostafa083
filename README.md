@@ -28,9 +28,7 @@ In the research domain, I am a quantitative researcher. [Link to my research pro
 ![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=protikmostafa083&show_icons=true&theme=cobalt)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=protikmostafa083&langs_count=8)](https://github.com/protikmostafa083/github-readme-stats)
 
-<a href="https://github.com/protikmostafa083/protikmostafa083">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=protikmostafa083&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-  
+
   
 <!--
 **protikmostafa083/protikmostafa083** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
