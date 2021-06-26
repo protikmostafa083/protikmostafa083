@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 I am Mostafa Mohiuddin Jalal (Protik). I am an engineering graduate from Bangladesh University of Professionals(BUP).
+- 🌱 I’m currently learning Data Science and Machine Learning.
+- 👯 I’m looking to collaborate on Machine Learning Projects and Research Papers.
+- 🥅 Goal of 2021 is to learn more about data.
+- ⚡ Fun fact: I like travelling and cooking.
 
 I am a self taught **Machine Learning Engineer** and **Data Scientist**. I specialize in **classification, regression problem, anomaly detection, and outcome prediction**. I work with **medical statistics, Healthcare AI, socioeconomic demographs**.
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="290" />
@@ -24,8 +28,10 @@ In the research domain, I am a quantitative researcher. [Link to my research pro
 ![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=protikmostafa083&show_icons=true&theme=cobalt)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=protikmostafa083&langs_count=8)](https://github.com/protikmostafa083/github-readme-stats)
 
- 
- 
+<a href="https://github.com/protikmostafa083/protikmostafa083">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=protikmostafa083&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  
+  
 <!--
 **protikmostafa083/protikmostafa083** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
