@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Mostafa Mohiuddin Jalal (Protik). I am an engineering graduate from Bangladesh University of Professionals(BUP).
+I am Mostafa Mohiuddin Jalal (Protik). I am an engineering graduate from Bangladesh University of Professionals(BUP) and currently pursuing my masters in Data Science and Innovation at the University of Technology Sydney(UTS).
 - 🌱 I’m currently learning Data Science and Machine Learning.
 - 👯 I’m looking to collaborate on Machine Learning Projects and Research Papers.
 - 🥅 Goal of 2021 is to learn more about data.
