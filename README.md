@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm Mostafa Mohiuddin Jalal, but you can call me Protik. I'm a Data Scientist with a focus in ML, DL and Big Data, currently pursuing my Masters in Data Science and Innovation at the University of Technology Sydney (UTS).
+
 🌱 As a lifelong learner, I'm always looking to expand my knowledge of Data Science and Machine Learning, and I'm excited to collaborate on any Machine Learning projects or research papers. When I'm not geeking out over data, I enjoy traveling and cooking. Fun fact: I once made a dish so spicy that it brought tears to my eyes (but it was totally worth it).
 
 🥽 In the realm of research, I'm a quantitative researcher. I've worked on projects that span a wide range of topics, from the reasons behind drug addiction in Bangladeshi context to predicting the occurrence and recurrence of breast cancer. I'm also well-versed in medical statistics, healthcare AI, and socioeconomic demographics. On the programming side of things, I specialize in classification, regression problems, anomaly detection, and outcome prediction. I'm proficient in Python, R, SQL, RUST.
