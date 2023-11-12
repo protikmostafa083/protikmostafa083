@@ -5,11 +5,11 @@
 I'm a passionate Data Scientist with a focus on Machine Learning, Deep Learning, and Big Data. I'm currently honing my skills and expanding my knowledge in the field of Data Science and Innovation at the University of Technology Sydney (UTS).
 
 🌟 **About Me:**
-- 🌱 Lifelong learner and enthusiast in Data Science, Machine Learning, and AI.
-- 📊 Currently pursuing a Masters in Data Science and Innovation at UTS.
-- 🤝 Open to collaborations in ML projects and research.
-- 🥽 Quantitative researcher with a diverse project background, including medical statistics, healthcare AI, and socioeconomic demographics.
-- 🌍 When not delving into data, I love traveling and cooking (I once made a dish so spicy it brought tears to my eyes!).
+- Lifelong learner and enthusiast in Data Science, Machine Learning, and AI.
+- Currently pursuing a Masters in Data Science and Innovation at UTS.
+- Open to collaborations in ML projects and research.
+- Quantitative researcher with a diverse project background, including medical statistics, healthcare AI, and socioeconomic demographics.
+- When not delving into data, I love traveling and cooking (I once made a dish so spicy it brought tears to my eyes!).
 
 **Professional Experience:**
 - **AI Software Engineer Intern** at UTS Intelligent Drone Lab (Current):
