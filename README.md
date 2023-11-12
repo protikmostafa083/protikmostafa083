@@ -33,11 +33,17 @@ I'm a passionate Data Scientist with a focus on Machine Learning, Deep Learning,
 📫 **Let's Connect:**
 - Feel free to reach out to me on [Twitter](https://twitter.com/MostafaProtik), [LinkedIn](https://www.linkedin.com/in/mostafamohiuddin/), [Facebook](https://www.facebook.com/mostafaprotik/), [Instagram](https://www.instagram.com/protikmostafa/), or via [email](mailto:mostafamohiuddin.j@gmail.com).
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="290" />
+## My GitHub Stats 📊
+![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=protikmostafa083&show_icons=true&theme=cobalt)
 
-🌐 **GitHub Stats:**
-- I'm constantly working to improve my skills and contribute to the field of Data Science.
-- Check out my [GitHub profile](https://github.com/protikmostafa083) to see my latest projects.
+## Streak Stats 🔥
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=protikmostafa083)
+
+## Profile Trophy 🏆
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=protikmostafa083)
+
+## Visitor Count 👀
+![Visitor Count](https://profile-counter.glitch.me/protikmostafa083/count.svg)
 
 🚀 **Always Ready for a Challenge:**
 - If you have a complex data problem, I'm up for the challenge. Let's collaborate and find innovative solutions!
@@ -45,8 +51,5 @@ I'm a passionate Data Scientist with a focus on Machine Learning, Deep Learning,
 🙏 **Thank You:**
 - I'm excited about the future of data science and aim to make a significant impact in this field.
 - Keep learning, keep growing, and stay curious!
-
-![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=protikmostafa083&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=protikmostafa083&langs_count=8)](https://github.com/protikmostafa083/github-readme-stats)
 
 ---
