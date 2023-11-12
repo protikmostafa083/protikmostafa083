@@ -11,8 +11,7 @@ I'm a passionate Data Scientist with a focus on Machine Learning, Deep Learning,
 - 🥽 Quantitative researcher with a diverse project background, including medical statistics, healthcare AI, and socioeconomic demographics.
 - 🌍 When not delving into data, I love traveling and cooking (I once made a dish so spicy it brought tears to my eyes!).
 
-
-🔭 **Professional Experience:**
+**Professional Experience:**
 - **AI Software Engineer Intern** at UTS Intelligent Drone Lab (Current):
   - Implemented object detection pipelines.
   - Developed a semi-automated data annotation pipeline.
