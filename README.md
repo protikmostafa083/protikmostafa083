@@ -1,7 +1,6 @@
 ---
 
 ### Hi there, I'm Mostafa Mohiuddin Jalal (Protik) 👋
-
 I'm a passionate Data Scientist with a focus on Machine Learning, Deep Learning, and Big Data. I'm currently honing my skills and expanding my knowledge in the field of Data Science and Innovation at the University of Technology Sydney (UTS).
 
 🌟 **About Me:**
