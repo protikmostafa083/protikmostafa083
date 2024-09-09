@@ -1,18 +1,22 @@
 ### Hi there, I'm Mostafa Mohiuddin Jalal (Protik) 👋
 
-I'm a passionate Data Scientist with a focus on Machine Learning, Deep Learning, and Big Data. Currently expanding my knowledge at the University of Technology Sydney (UTS).
+I'm a passionate Data Scientist with a focus on Machine Learning, Deep Learning, and Big Data. Currently exploring the relationship between **genetic predisposition and cancer survivorship** at the **Children’s Cancer Research Unit (CCRU)**, part of the **Sydney Children's Hospital Network**.
 
 <img align="right" alt="Coding GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="290" />
 
 🌟 **About Me:**
 - 🌱 Lifelong learner and enthusiast in Data Science, Machine Learning, and AI.
-- 📊 Currently pursuing a Masters in Data Science and Innovation at UTS.
-- 🤝 Open to collaborations in ML projects and research.
-- 🥽 Quantitative researcher with a diverse project background, including medical statistics, healthcare AI, and socioeconomic demographics.
-- 🌍 When not delving into data, I love traveling and cooking (I once made a dish so spicy it brought tears to my eyes!).
+- 📊 Graduated with a Masters in Data Science and Innovation from the University of Technology Sydney (UTS).
+- 🤝 Open to collaborations in ML projects, research, and teaching.
+- 🥽 Currently working on research that explores genetic predisposition in relation to cancer treatment outcomes.
+- 🌍 When not working on data, I enjoy traveling and cooking (I once made a dish so spicy it brought tears to my eyes!).
 
 🔭 **Professional Experience:**
-- **AI Software Engineer Intern** at UTS Intelligent Drone Lab (Current):
+- **Casual Academic** at UTS (Current):
+  - Taught **Deep Learning and Convolutional Neural Networks** (CS, FEIT).
+  - Instructed on **Programming 2** (Java & Python - Design Pattern).
+  - Delivered courses on **Deep Learning** (TD School - Development Contract) and **Data Visualization and Narratives** (TD School).
+- **AI Software Engineer Intern** at UTS Intelligent Drone Lab (Previous):
   - Implemented object detection pipelines.
   - Developed a semi-automated data annotation pipeline.
   - Documented AI system workflows and integrated real-time data feeds.
@@ -31,7 +35,7 @@ I'm a passionate Data Scientist with a focus on Machine Learning, Deep Learning,
 - Skilled in Deep Learning, Image and Pattern Recognition, Image Processing, and integrating AI into systems.
 
 📫 **Let's Connect:**
-- Feel free to reach out to me on [Twitter](https://twitter.com/MostafaProtik), [LinkedIn](https://www.linkedin.com/in/mostafamohiuddin/), [Facebook](https://www.facebook.com/mostafaprotik/), [Instagram](https://www.instagram.com/protikmostafa/), or via [email](mailto:mostafamohiuddin.j@gmail.com).
+- Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mostafamohiuddin/), [Facebook](https://www.facebook.com/mostafaprotik/), [Instagram](https://www.instagram.com/protikmostafa/), or via [email](mailto:mostafamohiuddin.j@gmail.com).
 
 ## My GitHub Stats 📊
 ![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=protikmostafa083&show_icons=true&theme=cobalt)
@@ -49,5 +53,5 @@ I'm a passionate Data Scientist with a focus on Machine Learning, Deep Learning,
 - If you have a complex data problem, I'm up for the challenge. Let's collaborate and find innovative solutions!
 
 🙏 **Thank You:**
-- I'm excited about the future of data science and aim to make a significant impact in this field.
+- I’m excited about the future of data science and aim to make a significant impact in this field.
 - Keep learning, keep growing, and stay curious!
